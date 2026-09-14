@@ -1,0 +1,121 @@
+Nome,NumeroDePessoas,Mesa
+Daniel Torcida e esposa,2,Dália
+Jacinto Zima e esposa,2,Dália
+Celso Nhame e esposa,2,Dália
+Filimão Cossa e esposa,2,Dália
+Júlio Sigauque e esposa,2,Dália
+
+Jacinto Armindo e esposa,2,Amarílis
+Edson Matusse e esposa,2,Amarílis
+Faquirá,1,Amarílis
+Félix Changule,1,Amarílis
+Éster e Olga,2,Amarílis
+Zefa e Mayara,2,Amarílis
+Saudina Macamo,1,Amarílis
+Beatriz Tivane,1,Amarilis
+
+Artemiza Cossa e esposo,2,Beijo Pintado
+
+
+Carol Langa e esposo,2,Jasmine
+Ernesto Langa e esposa,2,Jasmine
+Félix Langa e esposa,2,Jasmine
+Magia,1,Jasmine
+Mário,1,Jasmine
+
+Amélia Tivane e esposo,2,Frésia
+Sara Cossa e esposo,2,Frésia
+
+Odete,1, Antúria
+Tia Carlota Mavie,1,Antúria
+Mariana Lumbela,1,Antúria
+Mila Chilaúle,1,Antúria
+Sarita,1,Antúria
+
+Micas Tivane e Esposa,2,Rosa
+
+Isa Vuco,1,Orquidea
+Damião,1,Orquidea
+Hassane,1,Orquidea
+
+Sadamo e esposa,2,Gardênia
+Aziza e esposa,2,Gardênia
+Amade e Hassane,2,Gardênia
+Maura,1,Gardênia
+Chiquito,1,Gardênia
+Gilda,1, Gerdênia
+Amade e esposa,2,Gardênia
+Rosita Chaúque,1, Gardênia
+Jacinto,1,Gardênia
+
+Domingos Saia e esposa,2,Estrelicia
+José Saia e esposa,2,Estrelicia
+Sérgio e esposa,2,Estrelicia
+Graça e esposo,2,Estrelicia
+Inocência Saia, 1, Estrelicia
+Nilza Saia,1, Estrelicia
+
+Rosa e esposo,2,Delfino
+Mara Saia e esposo,2,Delfino
+Mahamo e esposa,2,Delfino
+Shelsia Duvane,1,Delfino
+Elton Mathombe,1,Delfino
+Tina Mucavel e esposo, 2,Delfino
+
+Mara,1,Melissa
+Golfa,1,Melissa
+Ancha,1,Melissa
+Kátia,1,Melissa
+Elias Langa e Esposa, 2, Melissa
+Serafina,1,Melissa
+Sandra,1,Melissa
+Victoria,1,Melissa
+Melina,1,Melissa
+Ofélia,1,Melissa
+Rahasda,1,Melissa
+Helena Manave,1,Melissa
+
+
+Dulce e Esposo,2,Astromélia
+Cremilda,1,Astromélia
+Teté,1,Astromélia
+Ronaldo e esposa,2,Astromélia
+Vasco Chambel e esposa,2,Astromélia
+Sandra,1,Astromélia
+Helena Nhavotso,2, Astromélia
+Kátia Pereira,1,Astromélia
+
+Maúren,1,Íris
+Ivânia,1,Íris
+Abelina e esposo,2,Íris
+Neima Mulhovo e esposo,2,Íris
+Orlando Nuvunga e esposa,2,Íris
+Osvaldo Tivane e esposa,2, Íris
+Beliza e Salva,2,Íris
+Osvaldo Pires e esposa,2,Íris
+
+José Souto e esposa,2,Ave do Paraíso
+Marcelino e esposa,2,Ave do Paraíso
+Mucambe e esposa,2,Ave do Paraíso
+Edurêncio e esposa,2,Ave do Paraíso
+Helder e esposa,2,Ave do Paraíso
+Tchemane e Esposa,2,ave do Paraíso
+
+
+Gina e Helena,2,Lirío
+Sonito e esposa,2,Lirío
+Luciano e esposa,2,Lirío
+
+Benedito e Esposa,2,Áster
+
+Estrela,1, Calêndula
+Cecília,1,Calêndula
+Luciano e esposa,2, Calêndula
+Gina Mondlane,1,Calêndula
+
+Elias Tivane e esposa,2,Gerbéra
+Odete Nhambaga,1,Gerbéra
+Mariana,1,Gerbéra
+
+
+
